@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389840626761",
+    "project_id": "push-notification-fb550",
+    "storage_bucket": "push-notification-fb550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389840626761:android:8fd44745970167b2380b98",
+        "android_client_info": {
+          "package_name": "com.example.push_notif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu-dvUkztfKHhxUujqYoSlxDisXHGWO_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
